@@ -1,0 +1,11 @@
+div {
+    border: 3px solid black;
+    width: 340px;
+}
+
+p {
+    background-color: yellow;
+    width: 250px;
+    height: 80px;
+    margin: 40px;
+}
